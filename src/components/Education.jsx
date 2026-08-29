@@ -7,7 +7,7 @@ const education = [
     degree: 'B.Tech in Computer Science & Engineering',
     institution: 'IMS Engineering College',
     board: 'Dr. A.P.J. Abdul Kalam Technical University (AKTU)',
-    period: '[Start Year] — [End Year]',
+    period: '[2023] — [2027]',
     description:
       'Pursuing Bachelor of Technology in Computer Science & Engineering with a focus on full-stack development, data structures, algorithms, and software engineering principles.',
   },
