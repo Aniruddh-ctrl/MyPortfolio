@@ -30,24 +30,7 @@ const projects = [
     demo: '#',
     image: 'url-shortener',
   },
-  {
-    name: 'Portfolio Website',
-    tech: ['React', 'Tailwind CSS'],
-    description:
-      'Responsive personal portfolio showcasing projects, technical skills and achievements.',
-    github: '[GITHUB_URL]',
-    demo: '#',
-    image: 'portfolio',
-  },
-  {
-    name: 'Smart Parking System',
-    tech: ['MERN Stack', 'IoT', 'REST APIs'],
-    description:
-      'Smart parking platform designed to provide real-time parking availability and booking.',
-    github: '[GITHUB_URL]',
-    demo: '#',
-    image: 'smart-parking',
-  },
+ 
 ];
 
 const projectGradients = {

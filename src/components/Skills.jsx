@@ -30,7 +30,7 @@ const skillCategories = [
   {
     title: 'Tools',
     icon: 'Wrench',
-    skills: ['Git', 'GitHub', 'VS Code', 'Postman'],
+    skills: ['Git', 'GitHub', 'VS Code',],
   },
   {
     title: 'AI / ML',
